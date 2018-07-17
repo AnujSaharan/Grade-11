@@ -10,8 +10,8 @@ The following C++ programs are Lab Exercises for Grade 11 Computer Science stude
 
 **Email:** anuj@gatech.edu
 
-**Facebook:** https://www.facebook.com/theAnujSaharan
-
 **LinkedIn:** https://in.linkedin.com/in/AnujSaharan
+
+**Facebook:** https://www.facebook.com/theAnujSaharan
 
 ---
